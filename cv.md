@@ -12,3 +12,9 @@ i want to become very high class professional in frontend development. i love co
 * SASS
 * BOOTSTRAP
 * GIT
+
+## Projects
+* Project 1 - <a href='https://github.com/ynwa-huh/contact-page'> Contact </a>
+* Project 2 - <a href='https://github.com/ynwa-huh/index.html.github.io'> index </a>
+
+
