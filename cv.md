@@ -5,3 +5,10 @@
 
 ## About
 i want to become very high class professional in frontend development. i love coding and see what appears in front of me, when i coding. 
+
+## Skills
+* HTML5
+* CSS
+* SASS
+* BOOTSTRAP
+* GIT
