@@ -25,3 +25,5 @@ i want to become very high class professional in frontend development. i love co
 * Edx
 * Udemy
 
+## Languages
+* i understand everything what i here and read, also i can to speak english.
