@@ -20,3 +20,8 @@ i want to become very high class professional in frontend development. i love co
 ## Experience
 * None
 
+## Education
+* Freecodecamp
+* Edx
+* Udemy
+
